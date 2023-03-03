@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Duc Tran (Sergio), a middle **fullstack developer**.
 
 <!--
 **sergiotran/sergiotran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiotran&hide=contribs,prs)
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiotran&hide=contribs,prs&show_icons=true&theme=dark)
