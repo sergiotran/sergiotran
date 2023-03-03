@@ -1,19 +1,43 @@
-### Hi there 👋
-I'm Duc Tran (Sergio), a middle **fullstack developer**.
+[![SergioTran](/banner.png)](https://github.com/sergiotran)
+<p align="left">
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+      alt="javascript"
+      width="20"
+      height="20"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+      alt="typescript"
+      width="20"
+      height="20"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      alt="react"
+      width="20"
+      height="20"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"
+      alt="nextjs"
+      width="20"
+      height="20"
+    />
+  </a>
+</p>
 
-<!--
-**sergiotran/sergiotran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiotran&theme=dark&hide_progress=true)](https://github.com/sergiotran)
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiotran&hide=contribs,prs&show_icons=true&theme=dark)
+# Contact Me
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
